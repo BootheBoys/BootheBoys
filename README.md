@@ -17,6 +17,7 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OAuth for UofA](https://img.shields.io/badge/OAuth%20for%20UofA-A5260A?style=for-the-badge&logo=academia&logoColor=white)
 
 ---
 
