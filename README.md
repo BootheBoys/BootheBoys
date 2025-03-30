@@ -33,6 +33,6 @@
 
 ## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-boothe-930681241/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Boothe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-boothe-930681241/)
 
 **Email:** [andrew.boothe@5framestudios.com](mailto:andrew.boothe@5framestudios.com)
