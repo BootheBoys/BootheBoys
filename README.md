@@ -1,6 +1,6 @@
 <h1 align="center">Andrew Boothe</h1>
 
-👋 I'm Andrew, a Computer Science student at The University of Alabama, Tuscaloosa. I am currently interning at Shipt as a Backend Engineering Intern. Welcome to my GitHub profile!
+👋 I'm Andrew, a Computer Science student at The University of Alabama, Tuscaloosa.
 
 ---
 
